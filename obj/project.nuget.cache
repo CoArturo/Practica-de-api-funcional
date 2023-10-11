@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qZQMV7s3qZHdfIw0DP51Vj5pUTXUpLvsv9Wyjio5zeitWPHYEHqLfOMbjTByLh8wY1VhMivEsxvJzkQK8py8Jw==",
+  "dgSpecHash": "1MuW0mCTxZeArAWcvtQYhKZ+1WC01lER/BC7cieCm0RxOFKMRoRjcNej00h6taXizPlQeYyV4c6bnzSUePOqEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abela\\OneDrive\\Escritorio\\Practica-de-api-master\\Practica-de-api-master\\Practica de api.csproj",
+  "projectFilePath": "C:\\Users\\abela\\source\\repos\\Programacion 2\\Practica-de-api-master\\Practica-de-api-master\\Practica de api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abela\\.nuget\\packages\\microsoft.aspnet.cors\\5.2.9\\microsoft.aspnet.cors.5.2.9.nupkg.sha512",
     "C:\\Users\\abela\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
@@ -85,7 +85,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Microsoft.AspNet.Cors 5.2.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "message": "Package 'Microsoft.AspNet.Cors 5.2.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
       "libraryId": "Microsoft.AspNet.Cors",
       "targetGraphs": [
         "net6.0"
