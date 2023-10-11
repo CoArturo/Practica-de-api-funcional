@@ -1,0 +1,36 @@
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\bin\Debug\net6.0\appsettings.json
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\bin\Debug\net6.0\Practica de api.exe
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\bin\Debug\net6.0\Practica de api.deps.json
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\bin\Debug\net6.0\Practica de api.runtimeconfig.json
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\bin\Debug\net6.0\Practica de api.dll
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\bin\Debug\net6.0\Practica de api.pdb
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\bin\Debug\net6.0\System.Web.Cors.dll
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\obj\Debug\net6.0\Practica de api.csproj.AssemblyReference.cache
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\obj\Debug\net6.0\Practica de api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\obj\Debug\net6.0\Practica de api.AssemblyInfoInputs.cache
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\obj\Debug\net6.0\Practica de api.AssemblyInfo.cs
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\obj\Debug\net6.0\Practica de api.csproj.CoreCompileInputs.cache
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\obj\Debug\net6.0\Practica de api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\obj\Debug\net6.0\Practica de api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\obj\Debug\net6.0\staticwebassets\msbuild.Practica de api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\obj\Debug\net6.0\staticwebassets\msbuild.build.Practica de api.props
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Practica de api.props
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Practica de api.props
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\obj\Debug\net6.0\scopedcss\bundle\Practica de api.styles.css
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\obj\Debug\net6.0\Practica de api.csproj.CopyComplete
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\obj\Debug\net6.0\Practica de api.dll
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\obj\Debug\net6.0\refint\Practica de api.dll
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\obj\Debug\net6.0\Practica de api.pdb
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\obj\Debug\net6.0\Practica de api.genruntimeconfig.cache
+C:\Users\abela\OneDrive\Escritorio\Practica-de-api-master\Practica-de-api-master\obj\Debug\net6.0\ref\Practica de api.dll
