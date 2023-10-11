@@ -8,7 +8,41 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net6.0\Practica de api.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net6.0\Practica de api.GlobalUsings.g.cs" />
+    <Compile Include="obj\Debug\net6.0\Practica de api.MvcApplicationPartsAssemblyInfo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Include="bin\Debug\net6.0\usuario.json" />
+    <Content Include="obj\Debug\net6.0\Practica de api.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\net6.0\staticwebassets.build.json" />
+    <Content Include="obj\Practica de api.csproj.nuget.dgspec.json" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="obj\Debug\net6.0\apphost.exe" />
+    <None Include="obj\Debug\net6.0\Practica de api.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net6.0\Practica de api.assets.cache" />
+    <None Include="obj\Debug\net6.0\Practica de api.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net6.0\Practica de api.csproj.BuildWithSkipAnalyzers" />
+    <None Include="obj\Debug\net6.0\Practica de api.csproj.CopyComplete" />
+    <None Include="obj\Debug\net6.0\Practica de api.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net6.0\Practica de api.dll" />
+    <None Include="obj\Debug\net6.0\Practica de api.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net6.0\Practica de api.genruntimeconfig.cache" />
+    <None Include="obj\Debug\net6.0\Practica de api.MvcApplicationPartsAssemblyInfo.cache" />
+    <None Include="obj\Debug\net6.0\Practica de api.pdb" />
+    <None Include="obj\Debug\net6.0\refint\Practica de api.dll" />
+    <None Include="obj\Debug\net6.0\ref\Practica de api.dll" />
+    <None Include="obj\Debug\net6.0\staticwebassets\msbuild.build.Practica de api.props" />
+    <None Include="obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Practica de api.props" />
+    <None Include="obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Practica de api.props" />
+    <None Include="obj\Practica de api.csproj.nuget.g.props" />
+    <None Include="obj\Practica de api.csproj.nuget.g.targets" />
+    <None Include="obj\project.nuget.cache" />
   </ItemGroup>
 
   <ItemGroup>
