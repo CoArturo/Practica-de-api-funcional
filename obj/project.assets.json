@@ -3522,11 +3522,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abela\\source\\repos\\Programacion 2\\Practica-de-api-master\\Practica-de-api-master\\Practica de api.csproj",
+      "projectUniqueName": "C:\\Users\\abela\\OneDrive\\Escritorio\\Practica-de-api-master\\Practica-de-api-master\\Practica de api.csproj",
       "projectName": "Practica de api",
-      "projectPath": "C:\\Users\\abela\\source\\repos\\Programacion 2\\Practica-de-api-master\\Practica-de-api-master\\Practica de api.csproj",
+      "projectPath": "C:\\Users\\abela\\OneDrive\\Escritorio\\Practica-de-api-master\\Practica-de-api-master\\Practica de api.csproj",
       "packagesPath": "C:\\Users\\abela\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abela\\source\\repos\\Programacion 2\\Practica-de-api-master\\Practica-de-api-master\\obj\\",
+      "outputPath": "C:\\Users\\abela\\OneDrive\\Escritorio\\Practica-de-api-master\\Practica-de-api-master\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abela\\AppData\\Roaming\\NuGet\\NuGet.Config",

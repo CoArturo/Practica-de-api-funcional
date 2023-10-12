@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1MuW0mCTxZeArAWcvtQYhKZ+1WC01lER/BC7cieCm0RxOFKMRoRjcNej00h6taXizPlQeYyV4c6bnzSUePOqEA==",
+  "dgSpecHash": "xUwNKsiCMlTcmxyE0xwi+vdZxsb/AdiandWPPn+r8FXLHClFjyw6ov8tIoptrsAErHGC14BQRfQmVavH+ZoONA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abela\\source\\repos\\Programacion 2\\Practica-de-api-master\\Practica-de-api-master\\Practica de api.csproj",
+  "projectFilePath": "C:\\Users\\abela\\OneDrive\\Escritorio\\Practica-de-api-master\\Practica-de-api-master\\Practica de api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abela\\.nuget\\packages\\microsoft.aspnet.cors\\5.2.9\\microsoft.aspnet.cors.5.2.9.nupkg.sha512",
     "C:\\Users\\abela\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
