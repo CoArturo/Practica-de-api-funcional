@@ -1,10 +1,1 @@
-[
-  {
-    "Id": "b88e16b7-49c4-4caf-9274-a311e33z",
-    "Nombre": "Abel",
-    "Apellido": "Belen",
-    "Edad": "19",
-    "NombreUsuario": "Canelita",
-    "Contraseña": "1234"
-  }
-]
+[{"Id":"b88e16b7-49c4-4caf-9274-a311e33z","Nombre":"Abel","Apellido":"Belen","Edad":"19","NombreUsuario":"Canelita","Contraseña":"1234"},{"Id":"00f5884e-719c-47c4-b35c-6ecd172z","Nombre":"Engel","Apellido":"Castillo","Edad":"19","NombreUsuario":"ECL","Contraseña":"4321"},{"Id":"83856d0b-2e68-4dec-b2cd-c41da65z","Nombre":"Jose","Apellido":"Castillo","Edad":"18","NombreUsuario":"ImJose","Contraseña":"5656"},{"Id":"f5e5f5f4-8e90-408a-8ad3-bcb9112z","Nombre":"Oscar","Apellido":"Baez","Edad":"18","NombreUsuario":"Oscarin","Contraseña":"987654321"},{"Id":"446c683f-d43d-43b8-9ba1-11bbec2z","Nombre":"Waniel","Apellido":"Towers","Edad":"20","NombreUsuario":"WaniWani","Contraseña":"4646"}]

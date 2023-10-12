@@ -1,0 +1,14 @@
+2023-10-11 14:41:22 - Conversión de Fahrenheit a Celsius: 100 = Practica_de_api.Models.TemperaturaEstructura
+2023-10-11 14:42:34 - Conversión de Fahrenheit a Celsius: 100 = 37.77777777777778
+2023-10-11 14:43:15 - Conversión de Dólar a Peso Dominicano: 100 = 5600
+2023-10-11 20:19:18 - Suma: 10 + 10 = 20
+2023-10-11 20:19:40 - Conversión de Fahrenheit a Celsius: 100 = 37.77777777777778
+2023-10-11 20:20:00 - Conversión de Dólar a Peso Dominicano: 100 = 5600
+2023-10-11 20:20:00 - Conversión de Dólar a Peso Dominicano: 100 = 5600
+2023-10-11 20:20:01 - Conversión de Dólar a Peso Dominicano: 100 = 5600
+2023-10-11 20:20:01 - Conversión de Dólar a Peso Dominicano: 100 = 5600
+2023-10-11 20:20:10 - Conversión de Dólar a Peso Dominicano: 100 = 5600
+2023-10-11 20:21:05 - Conversión de Dólar a Peso Dominicano: 100 = 5600
+2023-10-11 21:14:26 - Suma: 15 + 15 = 30
+2023-10-11 21:14:42 - Conversión de Fahrenheit a Celsius: 104 = 40
+2023-10-11 21:14:50 - Conversión de Dólar a Peso Dominicano: 100 = 5600

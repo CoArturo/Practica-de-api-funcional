@@ -10,7 +10,7 @@ namespace Practica_de_api;
 
     public class ControlUsuario
     {
-        private string filePath = "C:/Users/abela/OneDrive/Escritorio/Practica-de-api-master/Practica-de-api-master/bin/Debug/net6.0/usuario.json";
+        private string filePath = "C:/Users/abela/source/repos/Programacion 2/Practica-de-api-master/Practica-de-api-master/bin/Debug/net6.0/usuario.json";
 
         public ControlUsuario(string jsonFilePath)
         {

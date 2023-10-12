@@ -1,25 +1,26 @@
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.AspNetCore.Cors;
+using static Practica_de_api.Implementaciones.ImplementacionTemperatura;
+using Practica_de_api.Fachada;
+using static Practica_de_api.Implementaciones.ImplementacionDivisas;
 
-//var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-//builder.Services.AddCors(options =>
-//{
-//    options.AddPolicy(name: MyAllowSpecificOrigins, policy =>
-//    {
-//        policy.WithOrigins("http://127.0.0.1:5500")
-//              .AllowAnyHeader()
-//              .AllowAnyMethod();
-//    });
-//});
 
 builder.Services.AddControllers();
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddScoped<ITemperaturaFachada, TemperaturaFachada>();
+builder.Services.AddScoped<IDivisaFachada, DivisaFachada>();
+builder.Services.AddDistributedMemoryCache(); 
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromMinutes(20);
+    options.Cookie.HttpOnly = true;
+    options.Cookie.IsEssential = true;
+});
 
 var app = builder.Build();
 
@@ -28,7 +29,7 @@ app.UseStaticFiles();
 app.UseRouting();
 
 // Add CORS middleware
-//app.UseCors(MyAllowSpecificOrigins);
+
 
 if (app.Environment.IsDevelopment())
 {
@@ -38,6 +39,8 @@ if (app.Environment.IsDevelopment())
 
 app.UseCors(a => a.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod());
 
+app.UseSession();
+app.UseAuthentication();
 app.UseHttpsRedirection();
 app.UseAuthorization();
 
